@@ -1,13 +1,11 @@
-html{
+
+body{
+    color: deeppink;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-body{
-    color: blue;
-}
 h1{
-   display: flex;
+    display: flex;
     justify-content: center;
-    color:deeppink
 }
 nav {
     margin-top: 20px;
